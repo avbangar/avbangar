@@ -41,6 +41,7 @@ As an engineer variety truly is the spice of life! I'm fortunate that I get to w
 [![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
 [![Node](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/en/)
 [![GraphQL](https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge)](https://graphql.org)
+[![Hugo](https://img.shields.io/badge/-hugo-FF4088?logo=hugo&logoColor=white&style=for-the-badge)](https://gohugo.io/)
 
 ## 🔭 Current Projects
 
