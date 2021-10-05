@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Aakash 👋 
+# Hi, I'm Kash 👋 
 #### Pronouns: He/Him
 
 I’m a Software Engineer @ [AMEX](https://www.americanexpress.com/en-gb/) working on the iOS application 🍏
