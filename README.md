@@ -31,8 +31,6 @@ I'm a Computer Science (BSc Hons) graduate from [The University of St Andrews](h
 
 As an engineer variety truly is the spice of life! I'm fortunate that I get to work with a number of technologies but these are some of my favourites: 
 
----
-
 <!-- Make your own badges: https://javascript.plainenglish.io/how-to-make-custom-language-badges-for-your-profile-using-shields-io-d2aeaf016b6b -->
 <!-- Get your colours and logos here: https://simpleicons.org/ -->
 
@@ -43,8 +41,6 @@ As an engineer variety truly is the spice of life! I'm fortunate that I get to w
 [![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
 [![Node](https://img.shields.io/badge/-node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)](https://nodejs.org/en/)
 [![GraphQL](https://img.shields.io/badge/-graphql-E10098?logo=graphql&logoColor=white&style=for-the-badge)](https://graphql.org)
-
----
 
 ## 🔭 Current Projects
 
@@ -58,10 +54,6 @@ When not developing at work I like to play around with the following:
 
 Don't be a stranger, feel free to reach out! 🤙
 
----
-
 [![Gmail](https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:av6angar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-linkedin-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avbangar)
 [![Spotify](https://img.shields.io/badge/-spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/usoq1wskx23fbnwlf2vkqb595?si=f6a7e54034b64439)
-
----
