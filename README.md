@@ -1,10 +1,6 @@
 # Hi, I'm Kash 👋
 iOS Developer @[Amex](https://www.americanexpress.com/en-gb/)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=avbangar&count_private=true&show_icons=true&theme=material-palenight&custom_title=Scorecard&hide=stars,prs&include_all_commits=true" />
-</a>
-
 ## Tools 🔨
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Haskell](https://img.shields.io/badge/-haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge)](https://www.haskell.org/)
