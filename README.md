@@ -5,7 +5,6 @@ iOS Developer @[Amex](https://www.americanexpress.com/en-gb/)
 [![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&style=for-the-badge)](https://developer.apple.com/swift/)
 [![Haskell](https://img.shields.io/badge/-haskell-5D4F85?logo=haskell&logoColor=white&style=for-the-badge)](https://www.haskell.org/)
 [![Python](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=white&style=for-the-badge)](https://www.python.org)
-[![Hugo](https://img.shields.io/badge/-hugo-FF4088?logo=hugo&logoColor=white&style=for-the-badge)](https://gohugo.io/)
 
 ## Reach Out 📫
 [![Gmail](https://img.shields.io/badge/-gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:av6angar@gmail.com)
